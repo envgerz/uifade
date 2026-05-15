@@ -2,7 +2,7 @@ name = "envger/ui_fade"
 version = "0.1.0"
 description = "lightweight, tween-based utility for fading UI elements easily."
 authors = ["envger"]
-repository = "https://github.com/envgerz/fadeUtil"
+repository = "https://github.com/envgerz/uifade"
 license = "MIT"
 includes = ["pesde.toml","src","README.md"]
 
